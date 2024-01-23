@@ -11,13 +11,13 @@
 
 ## Objetivo:
 
-Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+Crie uma classe genérica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
 - nome
 - idade
 - tipo (ex: guerreiro, mago, monge, ninja )
 
-Além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
+Além disso, deve ter um método chamado atacar que deve atender os seguintes requisitos:
 
 - exibir a mensagem: "o {tipo} atacou usando {ataque}")
 - aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
